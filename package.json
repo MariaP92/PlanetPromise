@@ -2,7 +2,7 @@
   "name": "planetsfetch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mariap92.github.io/PlanetPromise/",
+  "homepage": "https://mariap92.github.io/PlanetPromise",
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
